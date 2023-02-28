@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Samuel Schneider
-- 👀 I’m interested in traveling, running, designing, marketing and eating
+- 👋 Hi, I’m Samuel Jonathan Schneider
+- 👀 I’m interested in hiking, running, fitness, designing, marketing and eating
 - 🌱 I’m currently learning CSS, HTML and JavaScript
-- 💞️ I’m looking to collaborate on marketing (SEO and SMM)
+- 🥷 I’m a ClickUp ninja
+- 💞️ I’m looking to collaborate on marketing (SEO)
 - 📫 How to reach me mail@sjschneider.de or https://twitter.com/SamuelSchneide4
 
 <!---
