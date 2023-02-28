@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Samuel Jonathan Schneider
+- 🌲 Living in Germany, <a href="https://goo.gl/maps/yqxCkCvaanBDVWXA8" target="_blank">Black Forest</a>
 - 👀 I’m interested in hiking, running, fitness, designing, marketing and eating
 - 🌱 I’m currently learning CSS, HTML and JavaScript
 - 🥷 I’m a <a href="https://clickup.com/" target="_blank">ClickUp ninja</a>
