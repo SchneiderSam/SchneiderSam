@@ -14,10 +14,10 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Eg" alt="javascript" </a>
 <a href="https://affinity.serif.com/de/photo/" target="_blank"> <img src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white" alt="affinityphoto" </a>
-  <a href="https://affinity.serif.com/de/designer/" target="_blank"> <img src="https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" alt="affinitydesigner" </a>
+<a href="https://affinity.serif.com/de/designer/" target="_blank"> <img src="https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" alt="affinitydesigner" </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" /> </a>
- <a href="https://codesandbox.io/u/marisabrantley" target="_blank"> <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=white" alt="codesandbox" /> </a>
-<a href=# target="_blank"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" /> </a>
+<a href="https://wordpress.org/" target="_blank"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" /> </a>
+<a href="https://marketingplatform.google.com/intl/en/about/analytics/" target="_blank"> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="googleanalytics" /> </a>
 </p>
 <br>
 
