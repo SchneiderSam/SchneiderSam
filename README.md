@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Samuel Jonathan Schneider
-- 🌲 Living in Germany, <a href="https://goo.gl/maps/yqxCkCvaanBDVWXA8" target="_blank">Black Forest</a>
-- 👩‍❤️‍💋‍👨 Married to the dearest woman
-- 👀 I’m interested in hiking, running, fitness, designing, marketing and eating
-- 🥷 I’m a <a href="https://clickup.com/" target="_blank">ClickUp ninja</a>
-- 💞️ I’m looking to collaborate on marketing (SEO)
-- 📫 How to reach me? mail@sjschneider.de or at Twitter <a href="https://twitter.com/SamuelSchneide4" target="_blank">@SamuelSchneide4</a>
+<br>
+<br>
+
+<h2 align=center>Hi! I'm Samuel Jonathan Schneider.</h2>
+<h3 align=center>Senior marketer, passionate woodworker, outdoor enthusiast and happily married. All in one!🌲 Living in Germany, <a href="https://goo.gl/maps/yqxCkCvaanBDVWXA8" target="_blank">Black Forest</a></h3>
+<br>
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="mailto: mail@sjschneider.de" target="blank"><img align="center" src="https://img.icons8.com/dotty/40/000000/email.png" alt="SchneiderSam email" />
+</a>
+</p>
+<p align="left">
+<a href="https://twitter.com/SamuelSchneide4" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/twitter/follow/samuelschneid4?logo=twitter&style=for-the-badge" alt="samuelschneid4" /></a>
+</p>
+<br>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
