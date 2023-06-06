@@ -2,7 +2,7 @@
 <br>
 
 <h2 align=center>Hi! I'm Samuel Jonathan Schneider.</h2>
-<h3 align=center>Senior marketer, passionate woodworker, outdoor enthusiast and happily married.<br> All in one!<br>🌲 Living in Germany, <a href="https://goo.gl/maps/yqxCkCvaanBDVWXA8" target="_blank">Black Forest</a></h3>
+<h3 align=center>As a cross-functional project manager and agile engineer, I shape innovative solutions, inspired by the creative unpredictability of nature and the playfulness of squirrels 🐿<br>🌲 Living in Germany, <a href="https://goo.gl/maps/yqxCkCvaanBDVWXA8" target="_blank">Black Forest</a></h3>
 <br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
