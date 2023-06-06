@@ -2,8 +2,8 @@
 <br>
 
 <h2 align=center>Hi! I'm Samuel Jonathan Schneider.</h2>
-<h3 align=center>As a cross-functional project manager and agile engineer, I shape innovative solutions, inspired by the creative unpredictability of nature and the playfulness of squirrels 🐿<p>🌲 Living in Germany, <a href="https://goo.gl/maps/yqxCkCvaanBDVWXA8" target="_blank">Black Forest</a></h3>
-</p>
+<h3 align=center>As a cross-functional project manager and agile engineer, I shape innovative solutions, inspired by the creative unpredictability of nature and the playfulness of squirrels 🐿</h3>
+<p>🌲 Living in Germany, <a href="https://goo.gl/maps/yqxCkCvaanBDVWXA8" target="_blank">Black Forest</a></p>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="mailto: mail@sjschneider.de" target="blank"><img align="center" src="https://img.icons8.com/dotty/40/000000/email.png" alt="SchneiderSam email" />
