@@ -23,7 +23,7 @@
 <a href="https://affinity.serif.com/de/designer/" target="_blank"> <img src="https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" alt="affinitydesigner" </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" /> </a>
 <a href="https://wordpress.org/" target="_blank"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" /> </a>
-<a href="https://openai.com/chatgpt" target="_blank"> <img src="https://img.shields.io/badge/ChatGPT-Expert-brightgreen?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Poweruser" /> </a>
+<a href="https://openai.com/chatgpt" target="_blank"> <img src="https://img.shields.io/badge/ChatGPT-PowerUser-brightgreen?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT PowerUser" /> </a>
 <a href="https://marketingplatform.google.com/intl/en/about/analytics/" target="_blank"> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="googleanalytics" /> </a>
 </p>
 <br>
