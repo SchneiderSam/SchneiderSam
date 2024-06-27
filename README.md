@@ -13,7 +13,7 @@
             </a>
         </p>
 <br>
-    <h2 align="left">Languages and Tools:</h2>
+    <h2 align="left">Languages:</h2>
         <p align="left">
             <a href="https://www.w3.org/html/" target="_blank">
                 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -24,8 +24,17 @@
             <a href="https://www.python.org/" target="_blank">
                 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
             </a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-                <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Eg" alt="javascript">
+        </p>
+    <h2 align="left">Tools:</h2>
+        <p align="left">
+            <a href="https://code.visualstudio.com/" target="_blank">
+                <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
+            </a>
+            <a href="https://www.python.org/" target="_blank">
+                <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+            </a>
+            <a href="https://wordpress.org/" target="_blank">
+                <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
             </a>
             <a href="https://affinity.serif.com/de/photo/" target="_blank">
                 <img src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white" alt="affinityphoto">
@@ -33,14 +42,8 @@
             <a href="https://affinity.serif.com/de/designer/" target="_blank">
                 <img src="https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" alt="affinitydesigner">
             </a>
-            <a href="https://code.visualstudio.com/" target="_blank">
-                <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
-            </a>
-            <a href="https://wordpress.org/" target="_blank">
-                <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
-            </a>
-            <a href="x" target="_blank">
-                <img src="https://img.shields.io/badge/AI-Architect%20&&%20Consultant-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="AI Architect && Consultant" />
+            <a href="#" target="_blank">
+                <img src="https://img.shields.io/badge/AI-Architect%20&&%20Consultant-6c757d?style=for-the-badge&logo=robot&logoColor=white" alt="AI Architect && Consultant" />
             </a>
             <a href="https://marketingplatform.google.com/intl/en/about/analytics/" target="_blank">
                 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="googleanalytics" />
