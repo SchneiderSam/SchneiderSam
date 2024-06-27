@@ -30,8 +30,8 @@
             <a href="https://code.visualstudio.com/" target="_blank">
                 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
             </a>
-            <a href="https://www.python.org/" target="_blank">
-                <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+            <a href="https://www.djangoproject.com/" target="_blank">
+                <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" />
             </a>
             <a href="https://wordpress.org/" target="_blank">
                 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
