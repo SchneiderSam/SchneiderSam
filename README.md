@@ -21,6 +21,9 @@
             <a href="https://www.w3schools.com/css/" target="_blank">
                 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
             </a>
+            <a href="https://www.python.org/" target="_blank">
+                <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+            </a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
                 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Eg" alt="javascript">
             </a>
@@ -36,8 +39,8 @@
             <a href="https://wordpress.org/" target="_blank">
                 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
             </a>
-            <a href="https://openai.com/chatgpt" target="_blank">
-                <img src="https://img.shields.io/badge/ChatGPT-PowerUser-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT PowerUser" />
+            <a href="x" target="_blank">
+                <img src="https://img.shields.io/badge/AI-Architect%20&&%20Consultant-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="AI Architect && Consultant" />
             </a>
             <a href="https://marketingplatform.google.com/intl/en/about/analytics/" target="_blank">
                 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="googleanalytics" />
