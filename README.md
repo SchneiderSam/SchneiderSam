@@ -12,7 +12,6 @@
                 <img src="https://img.shields.io/badge/follow%20me%20on%20X-000000" alt="samuelschneid4">
             </a>
         </p>
-<br>
     <h2 align="left">Languages:</h2>
         <p align="left">
             <a href="https://www.w3.org/html/" target="_blank">
