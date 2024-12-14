@@ -1,16 +1,20 @@
 <br>
 <br>
-    <h2 align=center>Hi! I'm Samuel Jonathan Schneider.</h2>
-        <h3 align=center>As a Cross-Functional Project Manager and AI expert, I shape innovative solutions with agile engineering, inspired by nature and the playfulness of squirrels 🐿. I connect technology with creativity to create forward-thinking solutions.</h3>
-        <p align=center>🌲 Living in Germany, <a href="https://goo.gl/maps/yqxCkCvaanBDVWXA8" target="_blank">Black Forest</a></p>
-    <h2 align="left">Connect with me:</h2>
+    <h2 align=center>Hi! 👋 I'm Samuel Jonathan Schneider.</h2>
+        <div align="center">
+            <h3>Cross-Functional Project Manager & AI Expert</h3>
+            <p>Crafting innovative solutions through agile engineering, inspired by nature and the playfulness of squirrels 🐿</p>
+            <p>🌲 Based in the beautiful Black Forest, Germany • <a href="https://goo.gl/maps/yqxCkCvaanBDVWXA8" target="_blank">View Location</a></p>
+        </div>
+    <h2 align="left">Let's Connect!</h2>
         <p style="text-align: left;">
             <a href="mailto:mail@sjschneider.de" target="_blank">
                 <img src="https://img.shields.io/badge/write%20me-D7E3FC" alt="SchneiderSam email">
             </a>
         </p>
-    <h2 align="left">Main languages:</h2>
-        <p align="left">
+    <h2 align="left">🛠️ Tech Stack</h2>
+        <h3>Languages & Frameworks</h3>
+        <p style="text-align: left;">
             <a href="https://www.w3.org/html/" target="_blank">
                 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
             </a>
@@ -21,8 +25,8 @@
                 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
             </a>
         </p>
-    <h2 align="left">Tools:</h2>
-        <p align="left">
+    <h2 align="left">🔧 Tools & Analytics</h2>
+        <p style="text-align: left;">
             <a href="https://code.visualstudio.com/" target="_blank">
                 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
             </a>
