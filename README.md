@@ -30,6 +30,9 @@
             <a href="https://code.visualstudio.com/" target="_blank">
                 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
             </a>
+            <a href="https://www.codeium.com/windsurf" target="_blank">
+                <img src="https://img.shields.io/badge/Windsurf-000000?style=for-the-badge&logo=codeium&logoColor=white" alt="windsurf ide" />
+            </a>
             <a href="https://wordpress.org/" target="_blank">
                 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
             </a>
