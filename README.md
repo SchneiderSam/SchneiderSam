@@ -8,11 +8,8 @@
             <a href="mailto:mail@sjschneider.de" target="_blank">
                 <img src="https://img.shields.io/badge/write%20me-D7E3FC" alt="SchneiderSam email">
             </a>
-            <a href="https://twitter.com/SamuelSchneide4" target="_blank">
-                <img src="https://img.shields.io/badge/follow%20me%20on%20X-000000" alt="samuelschneid4">
-            </a>
         </p>
-    <h2 align="left">Languages:</h2>
+    <h2 align="left">Main languages:</h2>
         <p align="left">
             <a href="https://www.w3.org/html/" target="_blank">
                 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -20,17 +17,14 @@
             <a href="https://www.w3schools.com/css/" target="_blank">
                 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
             </a>
-            <a href="https://www.python.org/" target="_blank">
-                <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+            <a href="https://www.typescriptlang.org/" target="_blank">
+                <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
             </a>
         </p>
     <h2 align="left">Tools:</h2>
         <p align="left">
             <a href="https://code.visualstudio.com/" target="_blank">
                 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
-            </a>
-            <a href="https://www.djangoproject.com/" target="_blank">
-                <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" />
             </a>
             <a href="https://wordpress.org/" target="_blank">
                 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
@@ -49,8 +43,3 @@
             </a>
         </p>
 <br>
-
-<!---
-SchneiderSam/SchneiderSam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
