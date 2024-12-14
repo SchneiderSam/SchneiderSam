@@ -1,10 +1,5 @@
 <br>
 <br>
-    <style>
-        a {
-            text-decoration: none;
-        }
-    </style>
     <h2 align=center>Hi! 👋 I'm Samuel Jonathan Schneider.</h2>
         <div align="center">
             <h3>Cross-Functional Project Manager & AI Expert</h3>
