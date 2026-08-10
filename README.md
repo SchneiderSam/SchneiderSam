@@ -88,6 +88,7 @@
                 <img src="https://img.shields.io/badge/Caveman-FFD700?style=for-the-badge" alt="caveman" />
             </a>
         </div>
+        <p>Fast, rare/no problems. Current best choice.</p>
         <h3>A Tier</h3>
         <div style="display: flex; gap: 4px; flex-wrap: wrap;">
             <a href="https://github.com/rtk-ai/rtk" target="_blank">
@@ -100,4 +101,5 @@
                 <img src="https://img.shields.io/badge/Superpowers-C0C0C0?style=for-the-badge" alt="superpowers" />
             </a>
         </div>
+        <p><strong>RTK:</strong> Saves tokens, occasional errors, still practical. <strong>Beads:</strong> Good, sometimes overkill for small tasks. <strong>Superpowers:</strong> Good, sometimes contradicts other tools, too heavy for small changes.</p>
 <br>
