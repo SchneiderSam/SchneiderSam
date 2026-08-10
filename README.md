@@ -23,11 +23,14 @@
             <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>
         </p>
         <p>
-            <strong>Frameworks & UI:</strong>
-            <a href="https://base-ui.com/" target="_blank">Base UI</a> ·
+            <strong>Frameworks:</strong>
             <a href="https://nextjs.org/" target="_blank">Next.js</a> ·
+            <a href="https://astro.build/" target="_blank">Astro</a>
+        </p>
+        <p>
+            <strong>UI & Styling:</strong>
+            <a href="https://base-ui.com/" target="_blank">Base UI</a> ·
             <a href="https://ui.shadcn.com/" target="_blank">shadcn/ui</a> ·
-            <a href="https://astro.build/" target="_blank">Astro</a> ·
             <a href="https://starwind.dev/" target="_blank">Starwind</a>
         </p>
     <h2 align="left">Tools & Analytics</h2>
@@ -48,7 +51,6 @@
         </p>
         <p>
             <strong>AI & Analytics:</strong>
-            AI Architect & Consultant ·
             <a href="https://umami.is/" target="_blank">Umami</a>
         </p>
     <h2 align="left">Dev Tools Tier List</h2>
