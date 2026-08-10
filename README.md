@@ -81,4 +81,23 @@
                 <img src="https://img.shields.io/badge/Umami-000000?style=for-the-badge&logo=umami&logoColor=white" alt="umami analytics" />
             </a>
         </div>
+    <h2 align="left">🏆 Dev Tools Tier List</h2>
+        <h3>S Tier</h3>
+        <div style="display: flex; gap: 4px; flex-wrap: wrap;">
+            <a href="https://github.com/JuliusBrussee/caveman" target="_blank">
+                <img src="https://img.shields.io/badge/Caveman-FFD700?style=for-the-badge" alt="caveman" />
+            </a>
+        </div>
+        <h3>A Tier</h3>
+        <div style="display: flex; gap: 4px; flex-wrap: wrap;">
+            <a href="https://github.com/rtk-ai/rtk" target="_blank">
+                <img src="https://img.shields.io/badge/RTK-C0C0C0?style=for-the-badge" alt="rtk" />
+            </a>
+            <a href="https://github.com/gastownhall/beads" target="_blank">
+                <img src="https://img.shields.io/badge/Beads-C0C0C0?style=for-the-badge" alt="beads" />
+            </a>
+            <a href="https://github.com/obra/superpowers/" target="_blank">
+                <img src="https://img.shields.io/badge/Superpowers-C0C0C0?style=for-the-badge" alt="superpowers" />
+            </a>
+        </div>
 <br>
